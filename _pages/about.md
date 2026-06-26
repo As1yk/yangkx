@@ -33,7 +33,7 @@ He serves as an Associate Editor of Pattern Recognition, a leading journal in pa
 # 🔬 Research Interests
 - **Trustworthy Machine Learning**: robustness, fairness, interpretability, and privacy of ML models
 - **Data Mining**: large-scale data analytics, graph mining, and pattern discovery
-- **Large Models**: pre-training, fine-tuning, alignment, and safety of foundation models
+- **Large Models**: fine-tuning, alignment, and safety of foundation models
 
 <span class='anchor' id='-publications'></span>
 
