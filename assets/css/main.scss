@@ -1,0 +1,188 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
+}
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+/* ========== Additional polish ========== */
+
+/* Publication box hover effect */
+.paper-box {
+    transition: all 0.3s ease;
+    border-radius: 4px;
+    padding: 1.5em 1em 1.5em 1em !important;
+    margin: 0.5em 0;
+}
+
+.paper-box:hover {
+    background: #f8f9fa;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+/* Section heading styling */
+.page__content h1 {
+    font-size: 1.6em;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    padding-bottom: 0.4em;
+    border-bottom: 2px solid #e8e8e8;
+    color: #00369f;
+}
+
+.page__content h1:first-of-type {
+    margin-top: 0.5em;
+}
+
+/* Author sidebar refinements */
+.author__name {
+    font-size: 1.3em !important;
+    color: #00369f;
+}
+
+.author__bio {
+    font-size: 0.85em !important;
+    line-height: 1.4 !important;
+}
+
+/* Sidebar link styling */
+.author__urls a {
+    font-size: 0.82em !important;
+}
+
+/* News item styling */
+.page__content li {
+    margin-bottom: 0.4em;
+    line-height: 1.5;
+}
+
+/* Recruitment section styling */
+.page__content ul ul {
+    margin-top: 0.3em;
+    margin-bottom: 0.8em;
+}
+
+/* Anchor offset for fixed nav */
+.anchor {
+    display: block;
+    position: relative;
+    top: -60px;
+    visibility: hidden;
+}
+
+/* Google Scholar badge alignment */
+.page__content > p:has(a[href*="scholar.google"]) {
+    margin: 0.5em 0 1em 0;
+}
+
+/* Profile image in sidebar */
+.author__avatar img {
+    transition: transform 0.3s ease;
+}
+
+.author__avatar img:hover {
+    transform: scale(1.03);
+}

@@ -1,0 +1,31 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Research"
+    url: "/#-research-interests"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Funding"
+    url: "/#-research-funding"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Professional Services"
+    url: "/#-professional-services"
+
+  - title: "Education & Work"
+    url: "/#-educations"
+
+  - title: "Recruitment"
+    url: "/#-recruitment"
+
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
