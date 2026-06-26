@@ -18,12 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 About Me
+Kaixiang Yang, **IEEE Senior Member**, is an **Associate Professor**, **Ph.D. Supervisor**, and **Assistant Dean**. He has been selected for the Guangdong Major Talent Program. His research interests include **trustworthy machine learning**, **data mining**, and **large language models**.
 
-I am an **IEEE Senior Member**, **Associate Professor**, **Doctoral Supervisor**, and **Assistant Dean** at the [School of Future Technology](https://www.scut.edu.cn/), South China University of Technology (SCUT). I am also a recipient of the **Guangdong Provincial Major Talent Project** and currently serve as an **affiliated staff at the National Natural Science Foundation of China (NSFC)**. My research interests lie in **Trustworthy Machine Learning**, **Data Mining**, **Large Models**, **Industrial IoT**, and **AI for Science**.
+He has led numerous competitive research projects, including the National Natural Science Foundation of China (NSFC) General Program, the NSFC Young Scientists Fund (Category C), the SCUT–Zhuoyi Technology Joint Laboratory for Artificial Intelligence, the Guangdong Regional Joint Fund, and the CCF–DiDi Gaia Research Fund.
 
-I have published more than 100 papers in leading international journals and conferences, including **IEEE TPAMI, TKDE, TIP, TNNLS**, and top-tier AI/ML venues such as **ICML, NeurIPS, KDD, and AAAI**. Among them, 6 papers have been recognized as **ESI Hot Papers** or **Highly Cited Papers**. My work has garnered <a href='https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ'>Google Scholar citations of <strong><span id='total_cit'>3000+</span></strong></a> with an H-index of 26. I have also been granted 27 invention patents.
+Dr. Yang has published more than 100 papers in leading international journals and conferences, including **IEEE TPAMI, TKDE, TIP, TNNLS**, and top-tier AI/ML venues such as **ICML, NeurIPS, KDD, and AAAI**. Among them, 6 papers have been recognized as **ESI Hot Papers** or **Highly Cited Papers**. His work has received over 2,600 citations on Google Scholar, with an H-index of 26. He also holds 27 authorized invention patents.
 
-<a href='https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+He serves as an Associate Editor of Pattern Recognition, a leading journal in pattern recognition and artificial intelligence, Vice Chair of the Young Editorial Board of Automation & Information Engineering, and has been invited to serve as a Guest Editor for journals including IEEE Journal of Biomedical and Health Informatics and IEEE Transactions on Consumer Electronics.
+
+<a href='https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <span class='anchor' id='-research-interests'></span>
 
@@ -31,59 +34,23 @@ I have published more than 100 papers in leading international journals and conf
 - **Trustworthy Machine Learning**: robustness, fairness, interpretability, and privacy of ML models
 - **Data Mining**: large-scale data analytics, graph mining, and pattern discovery
 - **Large Models**: pre-training, fine-tuning, alignment, and safety of foundation models
-- **Industrial IoT**: intelligent sensing, edge computing, and industrial data analytics
-- **AI for Science (AI4Science)**: ML-driven scientific discovery and computational modeling
-
-<span class='anchor' id='-news'></span>
-
-# 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Appointed as **affiliated staff at the National Natural Science Foundation of China (NSFC)**.
-- *2024.11*: &nbsp;🎉🎉 Our research proposal on trustworthy AI has been funded by the **NSFC General Program**.
-- *2024.06*: &nbsp;🎉🎉 Our paper on trustworthy machine learning has been accepted by **IEEE TPAMI**.
-- *2024.05*: &nbsp;🎉🎉 We received the **Guangdong AI Industry Association Youth Science and Technology Innovation Award**.
-- *2024.01*: &nbsp;🎉🎉 Our paper has been selected as **ESI Highly Cited Paper**.
-- *2023.12*: &nbsp;🎉🎉 Honored to receive the **ACM Guangzhou Rising Star Award**.
-- *2023.03*: &nbsp;🎉🎉 Joined **South China University of Technology** as Associate Professor and Doctoral Supervisor.
 
 <span class='anchor' id='-publications'></span>
 
 # 📝 Selected Publications 
 (* indicates corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/papers/trustworthy_ml.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Towards Trustworthy Machine Learning: Robustness, Fairness, and Interpretability**
-
-**Kaixiang Yang***, et al.
-
-**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**
-
-[**Paper**](https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ) <strong><span class='show_paper_citations' data='m6Q3Xa0AAAAJ:UeHWp8X0CEIC'></span></strong>
-- A comprehensive survey on trustworthy machine learning covering robustness, fairness, and interpretability challenges.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='images/papers/data_mining_llm.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- **Advancing Data Mining with Large Language Models: A Comprehensive Survey**
-
-**Kaixiang Yang***, et al.
-
- **Advances in Neural Information Processing Systems (NeurIPS)**
-
-[**Paper**](https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ) <strong><span class='show_paper_citations' data='m6Q3Xa0AAAAJ:9yKSN-GCB0IC'></span></strong>
-- A comprehensive survey on leveraging large language models for data mining tasks across pattern discovery, graph mining, and knowledge graph construction.
-</div>
-</div>
-
-- [Graph Neural Networks for Trustworthy AI: A Survey](https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ), **Kaixiang Yang***, et al., **IEEE TKDE**, 2024
-- [Fairness-aware Federated Learning: Challenges and Opportunities](https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ), **Kaixiang Yang***, et al., **KDD**, 2024
-- [Robust Representation Learning for Noisy Labels](https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ), **Kaixiang Yang***, et al., **AAAI**, 2024
-- [Federated Learning under Data Heterogeneity: A Survey](https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ), **Kaixiang Yang***, et al., **IEEE TNNLS**, 2023
-- [Towards Robust Graph Neural Networks: Addressing Data Quality and Distribution Shifts](https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ), **Kaixiang Yang***, et al., **IEEE TIP**, 2023
-- [Deep Anomaly Detection on Attributed Graphs: A Survey](https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ), **Kaixiang Yang***, et al., **IEEE TPAMI**, 2023
+- [Ensemble-Enhanced Semi-Supervised Learning With Optimized Graph Construction for High-Dimensional Data](https://doi.org/10.1109/TPAMI.2024.3486319), Guojie Li, Zhiwen Yu, **Kaixiang Yang**, C. L. Philip Chen, and Xuelong Li, **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2025.
+- [C-HyPOD: Causal Hyperbolic Representation Learning with Prototype Orthogonal Disentanglement for Graph Out-of-Distribution Recommendation](https://doi.org/10.1145/3774904.3792553), Jiahao Liang, Yutian Xiao, Haoran Yang, Zhiwen Yu, Jia-Nan Liu, and **Kaixiang Yang**, **The ACM Web Conference (WWW)**, 2026.
+- [Adaptive Weighted Double Uncertainty Incrementally Active Learning for Multi-Class Imbalanced Data](https://doi.org/10.1109/TKDE.2025.3631144), Wuxing Chen, Zhiwen Yu, **Kaixiang Yang**, Ziwei Fan, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026.
+- [Dynamic Chunk-Based Active Learning Based on Enhanced Broad Learning System for Imbalanced Drifting Data Streams](https://doi.org/10.1109/TKDE.2025.3631126), Mianfen Lin, Zhiwen Yu, **Kaixiang Yang**, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026.
+- [Weighted Subspace Graph Learning for High-Dimensional Data](https://doi.org/10.1109/TKDE.2026.3656436), Guojie Li, Zhiwen Yu, Ziwei Fan, **Kaixiang Yang**, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026.
+- [Democratic Recommendation With User and Item Representatives Produced by Graph Condensation](https://doi.org/10.1109/TKDE.2026.3669777), Jiahao Liang, Haoran Yang, Xiangyu Zhao, Zhiwen Yu, Guandong Xu, Wanyu Wang, and **Kaixiang Yang**, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026.
+- [Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches](https://doi.org/10.1109/TKDE.2024.3397878), Guojie Li, Zhiwen Yu, **Kaixiang Yang**, Mianfen Lin, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2024.
+- [Solving the Imbalanced Problem by Metric Learning and Oversampling](https://doi.org/10.1109/TKDE.2024.3419834), **Kaixiang Yang***, Zhiwen Yu, Wuxing Chen, Zefeng Liang, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2024.
+- [Extracting and Composing Robust Features With Broad Learning System](https://doi.org/10.1109/TKDE.2021.3137792), **Kaixiang Yang***, Yuchen Liu, Zhiwen Yu, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2023.
+- [Incremental Weighted Ensemble Broad Learning System for Imbalanced Data](https://doi.org/10.1109/TKDE.2021.3061428), **Kaixiang Yang***, Zhiwen Yu, C. L. Philip Chen, Wenming Cao, Jane You, and Hau-San Wong, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2022.
+- [Semisupervised Classification With Novel Graph Construction for High-Dimensional Data](https://doi.org/10.1109/TNNLS.2020.3027526), Zhiwen Yu, Fengxu Ye, **Kaixiang Yang**, Wenming Cao, C. L. Philip Chen, Lianglun Cheng, Jane You, and Hau-San Wong, **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, 2022.
 
 <span class='anchor' id='-research-funding'></span>
 
@@ -155,9 +122,6 @@ I have published more than 100 papers in leading international journals and conf
 
 欢迎对科研有热情的本科生、硕士生、博士生加入！有意者请将简历发送至 **yangkx@scut.edu.cn**。
 
-<span class='anchor' id='-invited-talks'></span>
 
-# 💬 Invited Talks
-- *2023.11*: "Trustworthy Machine Learning: From Theory to Practice," Invited Talk at CCF China AI Conference. \| [\[slides\]](#)
-- *2023.06*: "Large Models and Data Mining: Opportunities and Challenges," Keynote at Guangdong AI Forum.
-- *2022.10*: "Towards Robust and Fair AI Systems," Invited Talk at ACM SIGKDD China Chapter.
+
+

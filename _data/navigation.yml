@@ -1,31 +1,25 @@
-# main links links
+# main links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "#about-me"
 
   - title: "Research"
-    url: "/#-research-interests"
-
-  - title: "News"
-    url: "/#-news"
+    url: "#-research-interests"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "#-publications"
 
   - title: "Funding"
-    url: "/#-research-funding"
+    url: "#-research-funding"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "#-honors-and-awards"
 
   - title: "Professional Services"
-    url: "/#-professional-services"
+    url: "#-professional-services"
 
   - title: "Education & Work"
-    url: "/#-educations"
+    url: "#-educations"
 
   - title: "Recruitment"
-    url: "/#-recruitment"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "#-recruitment"
